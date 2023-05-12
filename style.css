@@ -96,6 +96,9 @@ nav {
     flex-direction: row;
     margin-top: 9.77rem;
 }
+.side2 img{
+    width: 100%;
+}
 .our{
     text-align: center;
     padding-top: 7%;
