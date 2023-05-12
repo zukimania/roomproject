@@ -11,7 +11,7 @@ width: 50%;
 height: 70vh;
 }
 .nav-logo {
-  font-size: 2.5rem;
+  font-size: 25px;
   font-weight: bolder;
 }
 
@@ -94,10 +94,7 @@ nav {
 .gallery{
     display: flex;
     flex-direction: row;
-    /* margin-top: 9.77rem; */
-}
-.side2 img{
-    width: 100%;
+    margin-top: 9.77rem;
 }
 .our{
     text-align: center;
@@ -166,6 +163,15 @@ nav {
     
          .nav-links li a:hover {
              color: #1EFF34;
+         }
+         .gallery{
+            margin-top: 0;
+         }
+                 .side2 img {
+                     width: 100%;
+                 }
+         .nav-logo{
+            font-size: 2.5rem;
          }
    .pointing{
     width: 30%;
